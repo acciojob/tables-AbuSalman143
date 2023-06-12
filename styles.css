@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+/* your code */
+table{
+	
+	border-collapse:collapse;
+	width:100%
+}
+th,td {
+	padding:8Px;
+	text-align: left;
+}
+th{
+	background-color:blueviolet;
+}
+
